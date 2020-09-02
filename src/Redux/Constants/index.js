@@ -1,0 +1,4 @@
+export const GET_TASK_LIST_API = "GET_TASK_LIST_API";
+export const HANDLE_ON_CHANGE_TASK = "HANDLE_ON_CHANGE_TASK";
+export const BTN_ADD_TASK = "BTN_ADD_TASK";
+export const FILTER_NAME = "FILTE_NAME";
